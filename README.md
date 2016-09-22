@@ -9,9 +9,9 @@ you can use this class for encrypt a data with password and initialization vecto
 
 How to use
 
-first we need to include this class by using this function include_once("AES.php");
+first we need to include this class by using this function include_once("encrypt/AES.php"); //
 
-now you can call this class AES::Encrypt($yourdata, $yourpassword, $youriv);// 
+now you can call this class AES::Encrypt($yourdata, $yourpassword, $youriv); // 
 
 example
 
