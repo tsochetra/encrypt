@@ -13,7 +13,7 @@ How to use:
 include_once("encrypt/AES.php");
 
 
-$data = "a secure data need to be encrypt";
+$data = "a secure data need to be encrypted";
 
 $pw = "somerandomstring";
 
